@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Shrek",
+    "anoDeLancamento": 2001,
+    "incluidoNoPlano": false,
+    "somaAvaliacao": 0.0,
+    "totalDeAvaliacao": 0,
+    "duracaoEmMinutos": 90
+  },
+  {
+    "nome": "Toy Story",
+    "anoDeLancamento": 1995,
+    "incluidoNoPlano": false,
+    "somaAvaliacao": 0.0,
+    "totalDeAvaliacao": 0,
+    "duracaoEmMinutos": 81
+  },
+  {
+    "nome": "Coraline",
+    "anoDeLancamento": 2009,
+    "incluidoNoPlano": false,
+    "somaAvaliacao": 0.0,
+    "totalDeAvaliacao": 0,
+    "duracaoEmMinutos": 10
+  }
+]
